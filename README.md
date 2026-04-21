@@ -1,4 +1,3 @@
-# Tetris
 # Tetris Game — Java Port
 
 A Java port of the original Python Tetris game by **acedevph**, former **@JellyAce-69**, rebuilt
